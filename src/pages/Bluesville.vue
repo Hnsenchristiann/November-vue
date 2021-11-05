@@ -22,7 +22,7 @@
             </div>
 
             <div class="px-4 mb-12">
-                <p class="text-center font-bold text-xl text-white py-4">Our Products</p>
+                <p class="text-center font-bold text-xl text-white py-4">Our Founder</p>
                 <div class="mt-8" style="display: flex; justify-content: start;">
                     <img class="ml-4 mr-3" :src="founder4" style="border-radius: 50%; height: 5rem; width: 5rem; display: block;" />
                     <div class="ml-4 mt-5 h-7 px-3" style="background-color: #819FB5; border-radius: 50px;">
